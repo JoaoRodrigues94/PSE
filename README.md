@@ -7,7 +7,7 @@ A partir dos dados coletados da pesquisa, o grupo tratou cada questão para que 
 1- no terminal node dígite: 
 install ejs -save
 
-2- após a instalação, procure pela pasta que contém os arquivos pelo terminal node.
+2- após a instalação, procure pelo terminal node a pasta que contém os arquivos.
 
 3- execute o seguinte comando:
 node app.js
