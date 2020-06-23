@@ -1,6 +1,7 @@
 # PSE
 Projeto realizado no primeiro semestre de 2020 com os alunos de ADS. O principal objetivo é mostra habilidades com Node.js e JavaScript. 
-A partir dos dados coletados da pesquisa, o grupo tratou cada questão para que fosse gerado gráficos.
+A partir dos dados coletados da pesquisa, o grupo tratou cada questão para que fosse gerado gráficos.\n
+
 É necessário ter a biblioteca EJS instalado no node. Segue os passos para a instalaçao e execução do código:
 1- no terminal node dígite: 
 install ejs -save
